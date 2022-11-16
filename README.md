@@ -1,2 +1,2 @@
 #hello developer 
-this is just a simple tuorial to learn about git and its command
+this is just a tutorial about how to use git and github
